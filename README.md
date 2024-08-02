@@ -12,3 +12,6 @@ git status #text green color (in staging area)
 git commit -m "Add (filename)"
 git status #changes has been committed
 git log #viewing all the changes committed
+git push / git push origin main
+
+
